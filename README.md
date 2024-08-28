@@ -1,6 +1,10 @@
 
 # **Deep Work: Rules for Focused Success in a Distracted World by Cal Newport**
 
+![Deep Work Book Cover](https://github.com/alxayeed/deep-work/blob/main/deep-work-cover.webp)
+
+
+
 ## **Index**
 
 ### Part 1: The Idea
